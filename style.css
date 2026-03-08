@@ -1,0 +1,20 @@
+body{
+  font-family: sans-serif;
+  background-color:#cce2e3;
+  
+}
+title{
+    text-align:center;
+    color:#42c97b;
+}
+p{
+   font-family:Serif;
+   text-align:center;
+   padding:20px;
+   font-size:19px;
+   background-color:#d3e3cc;
+   
+}
+img{
+    width:150px;
+}
